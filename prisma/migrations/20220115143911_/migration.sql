@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "produtos" ALTER COLUMN "preco" SET DATA TYPE TEXT,
+ALTER COLUMN "likes" SET DATA TYPE TEXT;
